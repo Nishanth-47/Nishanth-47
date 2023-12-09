@@ -9,7 +9,6 @@ I'm Nishanth, a passionate computer science student on a journey to explore the 
 
 #### 📚 What I'm Up To:
 - Actively seeking challenging projects and collaborations.
-- Learning and applying the latest trends in AI and machine learning.
 - Building web applications to enhance my full-stack development skills.
 
 #### 💼 Seeking Opportunities:
